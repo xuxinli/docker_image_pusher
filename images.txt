@@ -1,4 +1,4 @@
-nginx
+snginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -7,3 +7,4 @@ ghcr.io/huggingface/text-embeddings-inference:1.2
 nimblex/memfiredb:15.1.1.20_01
 apache/airflow:2.7.2
 postgres:13
+redis:latest
