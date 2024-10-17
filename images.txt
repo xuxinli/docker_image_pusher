@@ -8,3 +8,6 @@ nimblex/memfiredb:15.1.1.20_01
 apache/airflow:2.7.2
 postgres:13
 apache/airflow:latest
+okapi0129/virtualwife-chatbot:latest
+okapi0129/virtualwife-chatvrm:latest
+okapi0129/virtualwife-gateway:latest
