@@ -4,10 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
 ghcr.io/huggingface/text-embeddings-inference:1.2
-nimblex/memfiredb:15.1.1.20_01
-apache/airflow:2.7.2
-postgres:13
-apache/airflow:latest
 okapi0129/virtualwife-chatbot:latest
 okapi0129/virtualwife-chatvrm:latest
 okapi0129/virtualwife-gateway:latest
