@@ -1,2 +1,9 @@
 ghcr.io/coqui-ai/tts
 ghcr.io/open-webui/open-webui:main
+1panel/maxkb:latest
+langgenius/dify-api:0.11.0
+langgenius/dify-web:0.11.0
+langgenius/dify-sandbox:0.2.10
+semitechnologies/weaviate:1.19.0
+pgvector/pgvector:pg16
+ghcr.io/chroma-core/chroma:0.5.1
