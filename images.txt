@@ -1,7 +1,2 @@
-snginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
-ghcr.io/huggingface/text-embeddings-inference:1.2
 ghcr.io/coqui-ai/tts
+ghcr.io/open-webui/open-webui:main
