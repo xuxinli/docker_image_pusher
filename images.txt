@@ -1,16 +1,1 @@
-ghcr.io/coqui-ai/tts
-ghcr.io/open-webui/open-webui:main
-1panel/maxkb:latest
-langgenius/dify-api:0.11.0
-langgenius/dify-web:0.11.0
-langgenius/dify-sandbox:0.2.10
-semitechnologies/weaviate:1.19.0
-pgvector/pgvector:pg16
-ghcr.io/chroma-core/chroma:0.5.1
-postgres:15-alpine
-redis:6-alpine
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
-saplabs/hanaexpress:2.00.076.00.20240701.1
-saplabs/hanaexpress:2.00.056.00.1624618329 
+saplabs/hanaexpress:2.00.056.00.1624618329 (fa/hana2sp05)
