@@ -12,3 +12,4 @@ redis:6-alpine
 ubuntu/squid:latest
 certbot/certbot
 nginx:latest
+saplabs/hanaexpress:2.00.076.00.20240701.1
