@@ -1,1 +1,2 @@
  continuumio/miniconda3:latest
+continuumio/anaconda3:latest
