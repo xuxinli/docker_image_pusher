@@ -1,1 +1,4 @@
-ghcr.io/swivid/f5-tts:main
+nsqio/nsq:v1.3.0
+grafana/grafana:11.3.2
+grafana/loki:3.2.1
+apipark/apipark:v1.4.3-beta
