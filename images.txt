@@ -1,5 +1,3 @@
-nsqio/nsq:v1.3.0
-grafana/grafana:11.3.2
-grafana/loki:3.2.1
-apipark/apipark:v1.4.3-beta
-apipark/apipark:v1.3.0-beta
+valkey/valkey:8
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+infiniflow/infinity:v0.6.0-dev3
