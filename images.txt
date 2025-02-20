@@ -1,7 +1,2 @@
-valkey/valkey:8
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-infiniflow/infinity:v0.6.0-dev3
-infiniflow/ragflow_deps:latest 
-library/ubuntu:22.04
-mysql:8.0.39
+redis:latest
 apipark/apipark:v1.5.0-beta
