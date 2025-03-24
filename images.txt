@@ -7,3 +7,4 @@ infiniflow/ragflow:v0.17.0
 langgenius/dify-api:1.0.1
 langgenius/dify-web:1.0.1
 langgenius/dify-plugin-daemon:0.0.4-local
+apipark/apipark:v1.6.1-beta
